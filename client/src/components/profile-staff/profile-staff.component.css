@@ -1,0 +1,19 @@
+/* .table tr th {
+  background-color: #343a40 !important;
+  color: white;
+} */
+.table tbody tr td {
+  height: 50px !important;
+  padding: 10px !important;
+}
+/* .table {
+  border-collapse: collapse !important;
+  border: 1px solid black !important;
+} */
+table table-bordered tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
